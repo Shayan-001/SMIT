@@ -7,7 +7,7 @@
 }
 
 #Div1 {
-    border: 2px solid rgb(255, 0, 0);
+    border: 2px solid rgb(38, 0, 255);
     /* height: 70vh; */
     width: 290px;
     flex-wrap: wrap;
@@ -54,6 +54,7 @@
 
 h3 {
     font-size: large;
+    color: red;
 }
 
 h3 , p {
